@@ -1,0 +1,4 @@
+
+input:empty + .avatar{
+    border-color: red;
+}
